@@ -1,0 +1,19 @@
+# Среда разработки PyCharm
+.idea/
+
+# Кэш Python и pytest
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Данные отчетов Allure
+allure-results/
+allure-report/
+
+# Виртуальные окружения (если создашь)
+venv/
+env/
+
+# Системные файлы Windows/macOS
+Thumbs.db
+.DS_Store
